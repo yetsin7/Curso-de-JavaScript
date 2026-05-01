@@ -50,7 +50,7 @@ function SobreNosotros() {
   return (
     <div style={s.pagina}>
       <h1 style={s.titulo}>Sobre Nosotros</h1>
-      <p style={{ color: '#a6adc8' }}>Aprendiendo React Router v6 en el Libro de JavaScript.</p>
+        <p style={{ color: '#a6adc8' }}>Aprendiendo React Router v6 en el Curso de JavaScript.</p>
       <p style={{ color: '#89b4fa', fontSize: '14px' }}>
         Ruta actual: <code>/sobre-nosotros</code>
       </p>

@@ -1,6 +1,6 @@
 # Módulo 29 — App Biblia Web (Biblia RV60)
 
-Proyecto final del Libro de JavaScript. Aplicación web profesional para leer la Biblia Reina-Valera 1960.
+Proyecto final del Curso de JavaScript. Aplicación web profesional para leer la Biblia Reina-Valera 1960.
 Construida con **Express** en el backend y **React + Vite** en el frontend.
 
 ## Descripción
@@ -95,7 +95,7 @@ La app queda disponible en `http://localhost:5173`.
 
 La BD SQLite debe estar en:
 ```
-C:\Users\Yetsin\Documents\Programacion\curso-de-javascript\datos\biblia_rv60.sqlite3
+<ruta-del-repo>\datos\biblia_rv60.sqlite3
 ```
 
 Se accede desde el backend con la ruta relativa `../../../datos/biblia_rv60.sqlite3`.

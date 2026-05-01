@@ -1,4 +1,4 @@
-# Carpeta `datos/` — Recursos del Libro de JavaScript
+# Carpeta `datos/` — Recursos del Curso de JavaScript
 
 Esta carpeta contiene la base de datos propia de este curso. Aquí se guarda la
 copia local de `biblia_rv60.sqlite3` que usan los ejercicios y proyectos del

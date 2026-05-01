@@ -1,9 +1,9 @@
-# Libro de JavaScript — De cero a PRO
+# Curso de JavaScript — De cero a PRO
 
 Curso práctico para aprender JavaScript moderno desde cero, entendiendo cómo se
 ejecuta el código tanto en Node.js como en el navegador.
 
-Repositorio oficial: <https://github.com/yetsin7/curso-de-javascript>
+Repositorio oficial: <https://github.com/yetsin7/curso-de-java-script>
 
 ---
 
@@ -213,7 +213,7 @@ de ayudar a que llegue a más estudiantes nicaragüenses y latinoamericanos:
 - 📣 **Cuenta tu experiencia.** Si aprendiste algo con este libro, contarlo
   motiva a otros a empezar.
 
-Enlace directo: <https://github.com/yetsin7/curso-de-javascript>
+Enlace directo: <https://github.com/yetsin7/curso-de-java-script>
 
 ---
 
